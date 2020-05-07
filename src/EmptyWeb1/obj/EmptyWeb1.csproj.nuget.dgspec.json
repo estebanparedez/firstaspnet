@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/EmptyWeb1.csproj": {}
+  },
+  "projects": {
+    "/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/EmptyWeb1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/EmptyWeb1.csproj",
+        "projectName": "EmptyWeb1",
+        "projectPath": "/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/EmptyWeb1.csproj",
+        "packagesPath": "/Users/estebanparedez/.nuget/packages/",
+        "outputPath": "/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/estebanparedez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.5, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

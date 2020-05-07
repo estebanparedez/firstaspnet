@@ -1,0 +1,16 @@
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/bin/Debug/netcoreapp1.0/web.config
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/bin/Debug/netcoreapp1.0/global.json
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/bin/Debug/netcoreapp1.0/Properties/launchSettings.json
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/bin/Debug/netcoreapp1.0/runtimeconfig.template.json
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/bin/Debug/netcoreapp1.0/EmptyWeb1.deps.json
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/bin/Debug/netcoreapp1.0/EmptyWeb1.runtimeconfig.json
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/bin/Debug/netcoreapp1.0/EmptyWeb1.runtimeconfig.dev.json
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/bin/Debug/netcoreapp1.0/EmptyWeb1.dll
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/bin/Debug/netcoreapp1.0/EmptyWeb1.pdb
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/obj/Debug/netcoreapp1.0/EmptyWeb1.csprojAssemblyReference.cache
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/obj/Debug/netcoreapp1.0/EmptyWeb1.csproj.CoreCompileInputs.cache
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/obj/Debug/netcoreapp1.0/EmptyWeb1.AssemblyInfoInputs.cache
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/obj/Debug/netcoreapp1.0/EmptyWeb1.AssemblyInfo.cs
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/obj/Debug/netcoreapp1.0/EmptyWeb1.dll
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/obj/Debug/netcoreapp1.0/EmptyWeb1.pdb
+/Users/estebanparedez/Documents/GitHub/firstaspnet/src/EmptyWeb1/obj/Debug/netcoreapp1.0/EmptyWeb1.genruntimeconfig.cache
